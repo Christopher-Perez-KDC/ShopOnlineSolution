@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using ShopOnline.Api.Entities;
+using ShopOnlineModels.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;

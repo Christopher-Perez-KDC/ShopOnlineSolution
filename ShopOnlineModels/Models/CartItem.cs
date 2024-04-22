@@ -1,4 +1,4 @@
-﻿namespace ShopOnline.Api.Entities
+﻿namespace ShopOnlineModels.Models
 {
     public class CartItem
     {
